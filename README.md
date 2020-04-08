@@ -1,5 +1,5 @@
 # IJCropSeed
- A seed X-ray image analysis tool
+ **A seed X-ray image analysis tool**
 
 IJCropSeed is a powerful free image analysis tool  designed to automate and improve the analysis of seed X-ray images.
 
