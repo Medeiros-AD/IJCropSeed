@@ -10,3 +10,6 @@ IJCropSeed measure parameters related to tissue integrity and morphometry of the
 IJCropSeed is completely free and easy-to-use.
 
 https://sites.google.com/ufv.br/ijcropseed/home
+
+![Graphical abstract](https://user-images.githubusercontent.com/56321997/84557440-8a97d400-ad01-11ea-8496-fcfcc2f10952.jpg)
+
